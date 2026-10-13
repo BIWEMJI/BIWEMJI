@@ -1,5 +1,25 @@
 ## Salut
-git add.
+### Hi I'm Janvier BIRREGAH
+Etudiant à **Lomé Digital School(LDS)**
+Passionné par le Web/html/css/Javascript
+Lomé,TOGO
+
+#### Tech Stack
+![HTML]
+![CSS]
+![JAVASCRIPT]
+![Git]
+#### En ce moment
+-Je clone le site officiel de LDS
+-J'apprends le responsive design
+-Objectf: devenir Fullstack Dev pro
+
+#### Me contacter
+-Portfolio:lds.tg(bientôt)
+-Wathsapp: disponible
+
+
+
 
 <!--
 **BIWEMJI/BIWEMJI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
